@@ -1,6 +1,6 @@
 # -Mirrorz-osu-skins-
 
- ###TBH I made this for fun, More skins will be added soon.
+ ### TBH I made this for fun, More skins will be added soon.
  
 
 
