@@ -28,5 +28,10 @@ mirrorz with the big skins
 
 
 
-[-+ seoul kirby v9 +-](https://www.mediafire.com/file/muj1vncr1msalgr/-+_Seoul_v9_Personal_Skin_Kirby.osk/file)
+[-+ Seoul Kirby v9 +-](https://www.mediafire.com/file/muj1vncr1msalgr/-+_Seoul_v9_Personal_Skin_Kirby.osk/file)
 ![Alt text](https://i.imgur.com/1mFYHVW.png://full/path/to/img.jpg "Optional title")
+
+
+
+[SkinNotFound404v2](https://www.mediafire.com/file/xntqi7ms52y2e61/404_SkinNotFound_v2.osk/file)
+![Alt text](https://i.imgur.com/72z92Hb.png://full/path/to/img.jpg "Optional title")
