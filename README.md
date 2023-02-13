@@ -2,7 +2,7 @@
 
 mirrorz with the big skins
 
-[size=150][- #Aristia# - #White# -](https://mega.nz/file/3CR10YLY#WrhKxXepeVhSauqRY2Xflscags5w9cqncVKXdlH0esY)
+[- #Aristia# - #White# -](https://mega.nz/file/3CR10YLY#WrhKxXepeVhSauqRY2Xflscags5w9cqncVKXdlH0esY)
 ![Alt text](https://i.imgur.com/9mREp6X.png://full/path/to/img.jpg "Optional title")
 
 
@@ -17,4 +17,5 @@ mirrorz with the big skins
 
 
 
-[- Shield cool hitsounds -])
+[- Shield cool hitsounds -](https://drive.google.com/file/d/1lluh-sODyZjd4Ii67ZkDozR98omxOair/view)
+![Alt text](https://i.imgur.com/99HrbBJ.png://full/path/to/img.jpg "Optional title")
