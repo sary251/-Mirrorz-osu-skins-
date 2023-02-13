@@ -1,6 +1,6 @@
 # -Mirrorz-osu-skins-
 
-# BIG Mirrorz with the big skins
+# **BIG Mirrorz with the big skins**
 
 
 # [- +basically all of the monko2k skins+ -](https://monko2k.xyz/skins)
