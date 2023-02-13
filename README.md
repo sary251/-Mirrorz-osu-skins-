@@ -49,5 +49,5 @@ mirrorz with the big skins
 
 
 
-[Aristia(Edit)+ no trail](https://www.mediafire.com/file/wxh5t1xfa3kpncd/Aristia%2528Edit%2529.osk/file)
+[Aristia(Edit)+ no trail](https://www.mediafire.com/file/wxh5t1xfa3kpncd/Aristia%2528Edit%2529.osk/file) + [oreo selection mode](https://www.mediafire.com/file/5mm0bt6f4chsbuv/selection-mode@2x.png/file)
 ![Alt text](https://i.imgur.com/aXU75Uv.png://full/path/to/img.jpg "Optional title")
