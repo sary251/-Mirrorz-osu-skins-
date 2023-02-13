@@ -29,4 +29,4 @@ basically all of the monko2k skins(https://monko2k.xyz/skins)
 
 
 [-+ seoul kirby 9v +-](https://www.mediafire.com/file/muj1vncr1msalgr/-+_Seoul_v9_Personal_Skin_Kirby.osk/file)
-![Alt text](https://www.mediafire.com/file/muj1vncr1msalgr/-+_Seoul_v9_Personal_Skin_Kirby.osk/file://full/path/to/img.jpg "Optional title")
+![Alt text](https://i.imgur.com/1mFYHVW.png://full/path/to/img.jpg "Optional title")
