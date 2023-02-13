@@ -2,4 +2,4 @@
 
 mirrorz with the big skins
 
-[- #Aristia# - #White# -] (https://imgur.com/6tTBFvt.png) 
+[- #Aristia# - #White# -] ![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
