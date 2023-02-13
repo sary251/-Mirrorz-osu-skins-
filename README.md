@@ -1,6 +1,7 @@
 # -Mirrorz-osu-skins-
 
- ## TBH I made this for fun. 
+ ## TBH I made this for fun, More skins will be added soon.
+ ## 
 
 
 # [- +basically all of the monko2k skins+ -](https://monko2k.xyz/skins)
@@ -119,3 +120,23 @@
 
 # [vv_idke_trail](https://www.mediafire.com/file/5g81w12zq3w39kf/vv_idke_trail.osk/file)
 ![Alt text](https://i.imgur.com/nrKnt7m.png://full/path/to/img.jpg "Optional title")
+
+
+
+# [Rafis But SZ](https://github.com/rudj-skinhub/woal/raw/tyfh/lifeline/Rafis%20but%20SZ.osk)
+![Alt text](https://i.imgur.com/IHL2g4V.png://full/path/to/img.jpg "Optional title")
+
+
+
+# [Boop](https://www.mediafire.com/file/whlwi8dvwfxeu5n/boop.osk/file)
+![Alt text](https://i.imgur.com/KmD3coJ.png://full/path/to/img.jpg "Optional title")
+
+
+
+# [Vaxei nomod ver. 2](https://www.mediafire.com/file/kz1v46j3k3jhsm3/vaxei_nomod_ver._2.osk/file)
+![Alt text](https://i.imgur.com/mAJfTG3.png://full/path/to/img.jpg "Optional title")
+
+
+
+# [vv idke trail diff cursor](https://github.com/rudj-skinhub/woal/raw/tyfh/windowlife/vv_idke_trail_diff_cursor.osk)
+![Alt text](https://i.imgur.com/jhWoZ1s.png://full/path/to/img.jpg "Optional title")
