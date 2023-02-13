@@ -146,4 +146,4 @@
 
 
 <p align="center">
-<img width="460" height="300" src=https://i.imgur.com/TDXnimB.gif/460/300">
+<img width="640" height="360" src=https://i.imgur.com/TDXnimB.gif/460/300">
