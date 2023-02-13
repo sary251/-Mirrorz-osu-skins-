@@ -2,5 +2,4 @@
 
 mirrorz with the big skins
 
-
-(https://i.imgur.com/dh79Bwo.png)
+[- #Aristia# - #White# -] [Imgur](https://i.imgur.com/6tTBFvt.png) 
