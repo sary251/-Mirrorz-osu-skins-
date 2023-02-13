@@ -145,4 +145,4 @@
 
 
 
-![Alt text](https://tenor.com/view/gotou-hitori-mistake-stunned-ijichi-nijika-yamada-ryou-gif-27207633://full/path/to/img.jpg "Optional title")
+![Alt text](https://i.imgur.com/TDXnimB.gif://full/path/to/img.jpg "Optional title")
