@@ -8,6 +8,14 @@ mirrorz with the big skins
 [basically all of the the BIG boshyman skins](https://docs.google.com/spreadsheets/d/1QR9RgX_AGZZUHCthCOZGXrIjiNU0tqcIo0X-yBjt-98/edit#gid=0)
 
 
+
+
+
+
+
+
+
+
 [#Aristia# - #White#](https://mega.nz/file/3CR10YLY#WrhKxXepeVhSauqRY2Xflscags5w9cqncVKXdlH0esY)
 ![Alt text](https://i.imgur.com/9mREp6X.png://full/path/to/img.jpg "Optional title")
 
