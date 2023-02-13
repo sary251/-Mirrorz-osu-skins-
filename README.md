@@ -71,3 +71,8 @@ mirrorz with the big skins
 
 [Boochi The Rock](https://drive.google.com/file/d/1iWg4mj1NwcPTMoDtLP7GT6ZreVbroq6g/view)
 ![Alt text](https://i.imgur.com/wmKLEfP.png://full/path/to/img.jpg "Optional title")
+
+
+
+[CUTEGUY G.A.H](https://www.mediafire.com/file/k51zrq9bhby8u31/CUTEGUY_G.A.H.osk/file)
+![Alt text](https://i.imgur.com/IOyPyEu.png://full/path/to/img.jpg "Optional title")
