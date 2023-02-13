@@ -57,3 +57,12 @@ mirrorz with the big skins
 [Aristia(Edit)+trail](https://www.mediafire.com/file/fmmuq6020lb8sda/Aristia%2528Edit%2529+trail.osk/file)+ [oreo selection mode](https://www.mediafire.com/file/5mm0bt6f4chsbuv/selection-mode@2x.png/file)
 ![Alt text](https://i.imgur.com/MovwB4i.png://full/path/to/img.jpg "Optional title")
 
+
+
+[AristiaEdit but SZ](https://github.com/rudj-skinhub/woal/raw/tyfh/lifeline/AristiaEdit%20but%20SZ.osk)
+![Alt text](https://i.imgur.com/OxhQoo3.png://full/path/to/img.jpg "Optional title")
+
+
+
+[BIG Vaxei](https://joofixd.s-ul.eu/Idc2Mdek)
+![Alt text](https://i.imgur.com/dJ5Xdgc.png://full/path/to/img.jpg "Optional title")
