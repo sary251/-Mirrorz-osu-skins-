@@ -6,3 +6,5 @@ mirrorz with the big skins
 ![Alt text](https://i.imgur.com/9mREp6X.png://full/path/to/img.jpg "Optional title")
 
 
+[- #Aristia# - #Mix# -]
+![Alt text](https://i.imgur.com/KgORmxZ.png://full/path/to/img.jpg "Optional title")
