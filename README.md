@@ -1,6 +1,6 @@
 # -Mirrorz-osu-skins-
 
-# **Mirrorz favorite skins**
+ # TBH I made this for fun. 
 
 
 # [- +basically all of the monko2k skins+ -](https://monko2k.xyz/skins)
