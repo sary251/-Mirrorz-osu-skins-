@@ -17,4 +17,4 @@ mirrorz with the big skins
 
 
 
-[- Shield cool hitsounds -](Shield Cool Hitsound.osk)
+[- Shield cool hitsounds -](Shield Cool Hitsound.osk/file)
