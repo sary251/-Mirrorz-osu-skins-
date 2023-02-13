@@ -3,7 +3,6 @@
  ### TBH I made this for fun, More skins will be added soon.
  
 
-[centre](https://i.imgur.com/MBqBFIz.png)[/centre]
 
 
 ## [- +basically all of the monko2k skins+ -](https://monko2k.xyz/skins)
