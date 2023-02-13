@@ -44,5 +44,7 @@ mirrorz with the big skins
 
 
 
+[Aristekk](https://mega.nz/file/Cq5FEK7A#8-GUO9q9UDmgaPh4maFex1C3AEonL0AKBFrBPnPf0T0)
+![Alt text](https://i.imgur.com/CtYHngX.png://full/path/to/img.jpg "Optional title")
 
 
