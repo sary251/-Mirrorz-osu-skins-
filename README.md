@@ -3,7 +3,7 @@
 mirrorz with the big skins
 
 
-basically all monko2k skins(https://monko2k.xyz/skins)
+basically all of the monko2k skins(https://monko2k.xyz/skins)
 
 
 [- #Aristia# - #White# -](https://mega.nz/file/3CR10YLY#WrhKxXepeVhSauqRY2Xflscags5w9cqncVKXdlH0esY)
