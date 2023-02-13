@@ -146,3 +146,4 @@
 
 
 ![Alt text](https://i.imgur.com/TDXnimB.gif://full/path/to/img.jpg "Optional title")
+<p align="center">
