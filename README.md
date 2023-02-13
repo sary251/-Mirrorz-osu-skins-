@@ -1,6 +1,7 @@
 # -Mirrorz-big-osu-skins-
 
- ### TBH I made this for fun, More skins will be added soon.
+ ### AKA the skins I play  with.
+ ### TBH I made this for fun, More skins will be added soon. ❤
  
 
 
@@ -141,3 +142,7 @@
 
 # [vv idke trail diff cursor](https://github.com/rudj-skinhub/woal/raw/tyfh/windowlife/vv_idke_trail_diff_cursor.osk)
 ![Alt text](https://i.imgur.com/jhWoZ1s.png://full/path/to/img.jpg "Optional title")
+
+
+
+![Alt text](https://tenor.com/view/gotou-hitori-mistake-stunned-ijichi-nijika-yamada-ryou-gif-27207633://full/path/to/img.jpg "Optional title")
