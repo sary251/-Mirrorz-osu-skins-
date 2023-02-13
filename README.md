@@ -66,3 +66,8 @@ mirrorz with the big skins
 
 [BIG Vaxei](https://joofixd.s-ul.eu/Idc2Mdek)
 ![Alt text](https://i.imgur.com/dJ5Xdgc.png://full/path/to/img.jpg "Optional title")
+
+
+
+[Boochi The Rock](https://drive.google.com/file/d/1iWg4mj1NwcPTMoDtLP7GT6ZreVbroq6g/view)
+![Alt text](https://i.imgur.com/wmKLEfP.png://full/path/to/img.jpg "Optional title")
