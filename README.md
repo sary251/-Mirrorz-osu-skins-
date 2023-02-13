@@ -48,3 +48,6 @@ mirrorz with the big skins
 ![Alt text](https://i.imgur.com/CtYHngX.png://full/path/to/img.jpg "Optional title")
 
 
+
+[Aristia(Edit)+ no trail](https://www.mediafire.com/file/wxh5t1xfa3kpncd/Aristia%2528Edit%2529.osk/file)
+![Alt text](https://i.imgur.com/aXU75Uv.png://full/path/to/img.jpg "Optional title")
