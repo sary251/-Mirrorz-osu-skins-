@@ -14,3 +14,7 @@ mirrorz with the big skins
 
 [- #Azerite8dawn# -](http://www.mediafire.com/file/igdja1s7gberzck/%2523Azerite_%2528osu_player84%2529_%25232.osk/file)
 ![Alt text](https://i.imgur.com/oPTCmOn.png/KgORmxZ.png://full/path/to/img.jpg "Optional title")
+
+
+
+[- Shield cool hitsounds -](_Shield Cool Hitsound.osk)
