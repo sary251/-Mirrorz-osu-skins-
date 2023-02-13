@@ -1,12 +1,12 @@
 # -Mirrorz-osu-skins-
 
- ##### TBH I made this for fun, More skins will be added soon.
- ##### 
+ ###TBH I made this for fun, More skins will be added soon.
+ 
 
 
-### [- +basically all of the monko2k skins+ -](https://monko2k.xyz/skins)
+## [- +basically all of the monko2k skins+ -](https://monko2k.xyz/skins)
 
-### [- +basically all of the BIG boshyman skins+ -](https://docs.google.com/spreadsheets/d/1QR9RgX_AGZZUHCthCOZGXrIjiNU0tqcIo0X-yBjt-98/edit#gid=0)
+## [- +basically all of the BIG boshyman skins+ -](https://docs.google.com/spreadsheets/d/1QR9RgX_AGZZUHCthCOZGXrIjiNU0tqcIo0X-yBjt-98/edit#gid=0)
 
 
 
