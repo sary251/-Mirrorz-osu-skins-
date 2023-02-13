@@ -5,7 +5,7 @@ mirrorz with the big skins
 
 [basically all of the monko2k skins](https://monko2k.xyz/skins)
 
-
+[basically all of the the BIG boshyman skins](https://docs.google.com/spreadsheets/d/1QR9RgX_AGZZUHCthCOZGXrIjiNU0tqcIo0X-yBjt-98/edit#gid=0)
 
 
 [#Aristia# - #White#](https://mega.nz/file/3CR10YLY#WrhKxXepeVhSauqRY2Xflscags5w9cqncVKXdlH0esY)
@@ -79,10 +79,32 @@ mirrorz with the big skins
 
 
 
-[dracula (funorange)](https://joofixd.s-ul.eu/2JwFiizy)
+[Dracula (funorange)](https://joofixd.s-ul.eu/2JwFiizy)
 ![Alt text](https://i.imgur.com/wdlI6N1.png://full/path/to/img.jpg "Optional title")
 
 
 
 [Intercambing](https://mega.nz/file/9Sg0nIKT#9GdSB4Z9TaaUmP4k8SblS2Vgwkb5v8hnHilBbW8GoDI)
 ![Alt text](https://i.imgur.com/jEKb0CI.png://full/path/to/img.jpg "Optional title")
+
+
+
+[Elohere](https://melonsoda0730.s-ul.eu/GmiyXtwx)
+![Alt text](https://i.imgur.com/Izfpgxe.png://full/path/to/img.jpg "Optional title")
+
+
+
+[Elohere but SZ](https://github.com/rudj-skinhub/woal/raw/tyfh/lifeline/elohere%20but%20SZ.osk)
+![Alt text](https://i.imgur.com/mOzNyt9.png://full/path/to/img.jpg "Optional title")
+
+
+
+[-GN 2018](https://osuskins.net/skin/nrnkSwg)
+![Alt text](https://i.imgur.com/VezLorq.png://full/path/to/img.jpg "Optional title")
+
+
+
+[Idke 1.2](https://drive.google.com/drive/folders/1cILC3sDDPapW4Wedt5z9z7L5ZLrZsZ8x)
+![Alt text](https://i.imgur.com/9fml51j.png://full/path/to/img.jpg "Optional title")
+
+
