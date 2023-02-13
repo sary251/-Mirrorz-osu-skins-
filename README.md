@@ -115,3 +115,7 @@ mirrorz with the big skins
 [Idke 1.2](https://drive.google.com/drive/folders/1cILC3sDDPapW4Wedt5z9z7L5ZLrZsZ8x)![Alt text](https://i.imgur.com/9fml51j.png://full/path/to/img.jpg "Optional title")
 
 
+
+
+[vv_idke_trail](https://www.mediafire.com/file/5g81w12zq3w39kf/vv_idke_trail.osk/file)
+![Alt text](https://i.imgur.com/nrKnt7m.png://full/path/to/img.jpg "Optional title")
