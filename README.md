@@ -104,7 +104,6 @@ mirrorz with the big skins
 
 
 
-[Idke 1.2](https://drive.google.com/drive/folders/1cILC3sDDPapW4Wedt5z9z7L5ZLrZsZ8x)
-![Alt text](https://i.imgur.com/9fml51j.png://full/path/to/img.jpg "Optional title")
+[Idke 1.2](https://drive.google.com/drive/folders/1cILC3sDDPapW4Wedt5z9z7L5ZLrZsZ8x)![Alt text](https://i.imgur.com/9fml51j.png://full/path/to/img.jpg "Optional title")
 
 
