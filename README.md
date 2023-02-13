@@ -3,4 +3,4 @@
 mirrorz with the big skins
 
 
-![nvv
+![https://i.imgur.com/6tTBFvt.png]
