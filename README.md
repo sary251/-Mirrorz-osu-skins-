@@ -1,4 +1,4 @@
-# -Switer-big-osu-skins-
+# -Mirrorz-big-osu-skins-
 
  ### AKA the skins I play  with.
  ### TBH I made this for fun, More skins will be added soon. ❤
