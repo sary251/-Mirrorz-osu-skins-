@@ -146,7 +146,11 @@
 
 
 # [nyanpotatoo](https://www.mediafire.com/file/k9x2j4fhvq4nr93/nyanpotatoo.osk/file)
-![Alt text](https://imgur.com/uk1AgTZ.png://full/path/to/img.jpg "Optional title")
+![Alt text](https://i.imgur.com/tQVUmy6.png://full/path/to/img.jpg "Optional title")
+
+
+
+#
 
 <p align="center">
 <img width="640" height="360" src=https://i.imgur.com/TDXnimB.gif/460/300">
