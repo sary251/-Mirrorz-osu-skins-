@@ -153,5 +153,18 @@
 # [Rafis aaaaa](https://www.mediafire.com/file/d5pdy61b0l6vani/Rafis_aaaaa.osk/file)
 ![Alt text](https://i.imgur.com/ym5UhDI.png://full/path/to/img.jpg "Optional title")
 
+
+
+# [Ustsuro](https://www.mediafire.com/file/2omf3c03mefedh8/utsuro.osk/file)
+![Alt text](https://i.imgur.com/Lgc7qd1.png://full/path/to/img.jpg "Optional title")
+
+
+
+# [Rucker](https://www.mediafire.com/file/axosnpxk8rpml6l/Rucker.osk/file)
+![Alt text](https://i.imgur.com/l3kgtKW.png://full/path/to/img.jpg "Optional title")
+
+
+
+
 <p align="center">
 <img width="640" height="360" src=https://i.imgur.com/TDXnimB.gif/460/300">
