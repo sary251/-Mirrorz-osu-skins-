@@ -56,3 +56,16 @@
 
 # [Intercambing](https://www.mediafire.com/file/1x8g7cjqt0gbunt/Intercambing.osk/file)
 ![Alt text](https://i.imgur.com/BV8sw19.png://full/path/to/img.jpg "Optional title")
+
+
+
+# [Tekkito2 ponstah](https://www.mediafire.com/file/d6s634maitbhr0c/tekkito2+ponstah.osk/file)
+![Alt text](https://i.imgur.com/fjk5ZAs.png://full/path/to/img.jpg "Optional title")
+
+
+# [Tekkito2 ponstah+Edit](https://www.mediafire.com/file/7ayxaga6404ysnl/tekkito2+ponstah+Edit.osk/file)
+![Alt text](https://i.imgur.com/OCm80GS.png://full/path/to/img.jpg "Optional title")
+
+
+
+
