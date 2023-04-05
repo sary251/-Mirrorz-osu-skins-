@@ -76,6 +76,6 @@
 
 
 # [tekkito2 kevin + edit](https://www.mediafire.com/file/nmgsy5t8ep3eaws/tekkito2+kevin+++edit.osk/file)
-![](https://i.imgur.com/UyhjPR5.png)
+![Alt text](https://i.imgur.com/UyhjPR5.png://full/path/to/img.jpg "Optional title")
 
 
