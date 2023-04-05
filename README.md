@@ -80,5 +80,6 @@
 
 
 # [tekkito2 kevin + white cursor edit](https://www.mediafire.com/file/tszina0wt3uvsny/tekkito2+kevin+++white+cursor+edit.osk/file)
-![[Alt text](https://www.mediafire.com/file/tszina0wt3uvsny/tekkito2+kevin+++white+cursor+edit.osk/file://full/path/to/img.jpg "Optional title")
+![Alt text](https://www.mediafire.com/file/tszina0wt3uvsny/tekkito2+kevin+++white+cursor+edit.osk/file://full/path/to/img.jpg "Optional title")
+
 
