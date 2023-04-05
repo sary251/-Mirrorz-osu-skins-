@@ -87,3 +87,14 @@
 ![Alt text](https://i.imgur.com/kkga10n.png://full/path/to/img.jpg "Optional title")
 
 
+# [bubbleman + edit_](https://www.mediafire.com/file/tp9kh550z27beq9/bubbleman+++edit_.osk/file)
+![Alt text](https://i.imgur.com/a9LEZmd.png://full/path/to/img.jpg "Optional title")
+
+
+# [bubbleman + edit](https://www.mediafire.com/file/zocmmuqatffof1o/bubbleman+++edit.osk/file)
+![Alt text](https://i.imgur.com/8VkfdQl.png://full/path/to/img.jpg "Optional title")
+
+
+# [Trail mix + white cursor](https://www.mediafire.com/file/an4f15lxhj5wg72/Trail+mix+++white+cursor.osk/file)
+![Alt text](https://i.imgur.com/uQBZBWo.png://full/path/to/img.jpg "Optional title")
+
