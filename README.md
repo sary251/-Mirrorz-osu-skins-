@@ -84,6 +84,6 @@
 
 
 # [tekkito2 exarch](https://www.mediafire.com/file/hbb629mrzzpczsq/tekkito2+exarch.osk/file)
-![](https://i.imgur.com/kkga10n.png)
+![Alt text](https://i.imgur.com/kkga10n.png://full/path/to/img.jpg "Optional title")
 
 
