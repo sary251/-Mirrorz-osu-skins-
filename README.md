@@ -103,5 +103,5 @@
 ![Alt text](https://i.imgur.com/QknmnKF.png://full/path/to/img.jpg "Optional title")
 
 
-# [artista(edit) + no trail](https://www.mediafire.com/file/77ekmpujpwjb7cw/artista(edit)+++no+trail.osk/file)
+# [artista(edit) + no traill](https://www.mediafire.com/file/77ekmpujpwjb7cw/artista(edit)+++no+trail.osk/file)
 ![Alt text](https://i.imgur.com/y8IYCLp.png://full/path/to/img.jpg "Optional title")
