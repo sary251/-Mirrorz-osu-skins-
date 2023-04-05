@@ -98,3 +98,6 @@
 # [Trail mix + white cursor](https://www.mediafire.com/file/an4f15lxhj5wg72/Trail+mix+++white+cursor.osk/file)
 ![Alt text](https://i.imgur.com/uQBZBWo.png://full/path/to/img.jpg "Optional title")
 
+
+# [Trail Mix](https://www.mediafire.com/file/knyiyl15mv6wcdl/Trail+mix.osk/file)
+![Alt text](https://i.imgur.com/QknmnKF.png://full/path/to/img.jpg "Optional title")
