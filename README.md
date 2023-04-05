@@ -111,5 +111,5 @@
 ![Alt text](https://i.imgur.com/iwqsbH0.png://full/path/to/img.jpg "Optional title")
 
 
-# [The Quiet Kid](https://www.mediafire.com/file/je209qzz4oio9m7/The+Quiet+Kid.osk/file)
+# [The Quiet Kidd](https://www.mediafire.com/file/je209qzz4oio9m7/The+Quiet+Kid.osk/file)
 ![Alt text](https://i.imgur.com/NLlAlOg.png://full/path/to/img.jpg "Optional title")
