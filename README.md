@@ -1,6 +1,4 @@
-# -Mirrorz/Ayze-big-osu-skins-<p align="center">
-// # -Mirrorz/Ayze-big-osu-skins-
-</p>
+# -Mirrorz/Ayze-big-osu-skins-
 
  ### AKA the skins I play  with.
  ### TBH I made this for fun, More skins will be added soon. ❤
