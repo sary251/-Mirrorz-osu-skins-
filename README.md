@@ -111,5 +111,19 @@
 ![Alt text](https://i.imgur.com/iwqsbH0.png://full/path/to/img.jpg "Optional title")
 
 
-# [The Quiet Kidd](https://www.mediafire.com/file/je209qzz4oio9m7/The+Quiet+Kid.osk/file)
+# [The Quiet Kidd](https://www.mediafire.com/file/zdex7qf6nb7ceua/%2523__MonkoEdit%252Bedit.osk/file)
 ![Alt text](https://i.imgur.com/NLlAlOg.png://full/path/to/img.jpg "Optional title")
+
+
+# [# MonkoEdit+edit](https://www.mediafire.com/file/zdex7qf6nb7ceua/%2523__MonkoEdit%252Bedit.osk/file)
+![Alt text](https://i.imgur.com/MlNFcGz.png://full/path/to/img.jpg "Optional title")
+
+
+
+# [# MonkoEdit+edit+kamui cursor](https://www.mediafire.com/file/gq4o8zz5unyvkuy/%2523__MonkoEdit%252Bedit%252Bkamui_cursor.osk/file)
+![Alt text](https://i.imgur.com/DWBATYt.png://full/path/to/img.jpg "Optional title")
+
+
+
+# [# MonkoEdit+edit+white cursor](https://www.mediafire.com/file/c12lvznuqpqitb0/%2523__MonkoEdit%252Bedit%252Bwhite_cursor.osk/file)
+![Alt text](https://i.imgur.com/GCyM1OR.png://full/path/to/img.jpg "Optional title")
