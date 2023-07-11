@@ -124,6 +124,10 @@
 ![Alt text](https://i.imgur.com/DWBATYt.png://full/path/to/img.jpg "Optional title")
 
 
+# [idke 1.3](https://www.mediafire.com/file/z6i4fbfo26zjzoe/idke+1.3.osk/file)
+![alt text](https://i.imgur.com/gc3HkSJ.jpg://full/path/to/img.jpg "Optional title")
+
+
 
 # [# MonkoEdit+edit+white cursor](https://www.mediafire.com/file/c12lvznuqpqitb0/%2523__MonkoEdit%252Bedit%252Bwhite_cursor.osk/file)
 ![Alt text](https://i.imgur.com/GCyM1OR.png://full/path/to/img.jpg "Optional title")
