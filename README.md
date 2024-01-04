@@ -1,4 +1,3 @@
-# -Mirrorz-big-osu-skins-
 
 
 # [Aireu](https://www.mediafire.com/file/7743rupt51umqb5/Aireu.osk/file)
