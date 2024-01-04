@@ -18,6 +18,14 @@
 # [a blue(rafis)](https://www.mediafire.com/file/vpbwxlncm9y93dd/a_Blue+(Rafis).osk/file)
 ![Alt text](https://i.imgur.com/NmuFaN9.jpg://full/path/to/img.jpg "Optional title")
 
+# [boop](https://www.mediafire.com/file/u9ehpk470j1ejxh/boop.osk/file)
+![Alt text](https://i.imgur.com/zhJymPB.jpg://full/path/to/img.jpg "Optional title")
+
+# [DestroylonelyHDDT](https://www.mediafire.com/file/wxbcu8x2kxjtc7x/destroylonelyHDDT.osk/file)
+![Alt text](https://i.imgur.com/kXjC7EP.jpg://full/path/to/img.jpg "Optional title")
+
+
+
 
 # [vv_idke_trail](https://www.mediafire.com/file/0gf5vh06q1ltqat/vv_idke_trail.osk/file)
 ![Alt text](https://i.imgur.com/iwqsbH0.png://full/path/to/img.jpg "Optional title")
