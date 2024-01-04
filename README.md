@@ -15,6 +15,8 @@
 # [- + tkova](https://www.mediafire.com/file/lxh5ykz5qxde9xs/-+++tkova.osk/file)
 ![Alt text](https://i.imgur.com/Wq8gvd1.jpg://full/path/to/img.jpg "Optional title")
 
+# [a blue(rafis)](https://www.mediafire.com/file/vpbwxlncm9y93dd/a_Blue+(Rafis).osk/file)
+![Alt text](https://i.imgur.com/NmuFaN9.jpg://full/path/to/img.jpg "Optional title")
 
 
 # [vv_idke_trail](https://www.mediafire.com/file/0gf5vh06q1ltqat/vv_idke_trail.osk/file)
