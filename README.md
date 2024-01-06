@@ -27,6 +27,9 @@
 # [Hana Ichinose & Rafis Prawilosc vJP](https://www.mediafire.com/file/9ki6bgzpv2168c2/Hana%20Ichinose%20&%20Rafis%20Prawilosc%20vJP.osk)
 ![Alt text](https://i.imgur.com/kXjC7EP.jpg://full/path/to/img.jpg "Optional title")
 
+# [RafisHDDT+Bloo pink cursor](https://www.mediafire.com/file/lxxtwtm53u2yohq/RafisHDDT+bloo+pink+cursor.osk/file)
+![Alt text](https://i.imgur.com/JAsokXD.jpg://full/path/to/img.jpg "Optional title")
+
 
 # [lua(toke+hamster)+dt+edit](https://www.mediafire.com/file/y0b8t52ve3bva2x/-+Lua+(Toke+Hamster)+++DT+edit.osk/file)
 ![Alt text](https://i.imgur.com/zalJRfi.jpg://full/path/to/img.jpg "Optional title")
