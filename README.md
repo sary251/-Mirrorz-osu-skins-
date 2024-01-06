@@ -31,6 +31,10 @@
 ![Alt text](https://i.imgur.com/JAsokXD.jpg://full/path/to/img.jpg "Optional title")
 
 
+# [rektygon editnov](https://www.mediafire.com/file/da44lt85vgjkrg2/rektygon+editnov.osk/file)
+![Alt text](https://i.imgur.com/cqDDJWC.jpg://full/path/to/img.jpg "Optional title")
+
+
 # [lua(toke+hamster)+dt+edit](https://www.mediafire.com/file/y0b8t52ve3bva2x/-+Lua+(Toke+Hamster)+++DT+edit.osk/file)
 ![Alt text](https://i.imgur.com/zalJRfi.jpg://full/path/to/img.jpg "Optional title")
 
