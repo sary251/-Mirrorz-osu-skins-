@@ -35,6 +35,10 @@
 ![Alt text](https://i.imgur.com/cqDDJWC.jpg://full/path/to/img.jpg "Optional title")
 
 
+# [- ✰ sacril tko](https://www.mediafire.com/file/cbqhf3nkc78chnd/-+✰+sacril+tko.osk/file)
+![Alt text](https://i.imgur.com/ijS9663.jpg://full/path/to/img.jpg "Optional title")
+
+
 # [lua(toke+hamster)+dt+edit](https://www.mediafire.com/file/y0b8t52ve3bva2x/-+Lua+(Toke+Hamster)+++DT+edit.osk/file)
 ![Alt text](https://i.imgur.com/zalJRfi.jpg://full/path/to/img.jpg "Optional title")
 
