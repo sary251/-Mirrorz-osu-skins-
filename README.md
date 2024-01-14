@@ -23,10 +23,10 @@
 
 # [DestroylonelyHDDT](https://www.mediafire.com/file/wxbcu8x2kxjtc7x/destroylonelyHDDT.osk/file)
 ![Alt text](https://i.imgur.com/3hF8nsC.jpg://full/path/to/img.jpg "Optional title")
-
+https://i.imgur.com/kXjC7EP.jpg
 # [Hana Ichinose & Rafis Prawilosc vJP](https://www.mediafire.com/file/9ki6bgzpv2168c2/Hana%20Ichinose%20&%20Rafis%20Prawilosc%20vJP.osk)
 ![Alt text](https://i.imgur.com/kXjC7EP.jpg://full/path/to/img.jpg "Optional title")
-
+https://i.imgur.com/3hF8nsC.jpg
 # [RafisHDDT+Bloo pink cursor](https://www.mediafire.com/file/lxxtwtm53u2yohq/RafisHDDT+bloo+pink+cursor.osk/file)
 ![Alt text](https://i.imgur.com/JAsokXD.jpg://full/path/to/img.jpg "Optional title")
 
